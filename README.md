@@ -7,10 +7,10 @@
 If you're looking for cool projects and next-level code, you're in the right place.</div>  
   
 
-- 🔭 I’m currently working on [Steady Partner](ugly-limit.surge.sh)  
+- 🔭 I’m currently studying at Daffodil International University.
   
 
-- 🌱 I’m currently learning React.Js and Express.js  
+- 🌱 I’m currently learning Web Development.Wish to work as Frontend Developer.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -21,6 +21,16 @@ If you're looking for cool projects and next-level code, you're in the right pla
 
 <br/>  
 
+## ✋ About Me 
+<div>Hi, I'm Mumu! 🚀 A passionate web developer who loves building cool, interactive applications.  
+Currently working on exciting projects involving maps, data visualization, and dashboards.  
+Always learning, coding, and exploring new tech—let's connect and create something awesome! </div> 
+
+## Current Activities 
+- 🔭 I’m currently working on [Steady Partner](ugly-limit.surge.sh) 
+- ⭐ Exploring Next.Js
+
+</br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -113,22 +123,27 @@ If you're looking for cool projects and next-level code, you're in the right pla
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmuda-akter-mumu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/aashi.dewan.9" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mriduush" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
 <br/>  
 
 
-###
+### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mumuuh6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumuuh6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mumuuh6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumuuh6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Used" />
+
+   <!-- GitHub Streak (Updated Link) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mumuuh6&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mumuuh6&theme=dracula&hide_border=false" height="150" alt="Contribution Graph" />
 </div>
+
+
 
